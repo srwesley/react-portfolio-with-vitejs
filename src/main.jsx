@@ -9,7 +9,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import AboutPage from "./pages/About";
 import ContactPage from "./pages/Contact";
 import ErrorPage from "./pages/Error.jsx";
-import ProjectPage from "./pages/Projects";
+import PortfolioPage from "./pages/Portfolio";
 import ResumePage from "./pages/Resume";
 
 // React router
@@ -28,8 +28,8 @@ const router = createBrowserRouter([
         element: <ContactPage />,
       },
       {
-        path: "projects",
-        element: <ProjectPage />,
+        path: "portfolio",
+        element: <PortfolioPage />,
       },
       {
         path: "resume",

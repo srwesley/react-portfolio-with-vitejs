@@ -1,20 +1,44 @@
 [
     {
-
+        "name": "Random Password Generator",
+        "languagesUsed": ["HTML", "CSS", "Javascript"],
+        "imageUrl": "/password.png",
+        "repoUrl": "https://github.com/srwesley/password-generator",
+        "deployedAppUrl": "*"
     },
     {
-
+        "name": "REAME.md Generator",
+        "languagesUsed": ["Node.js"],
+        "imageUrl": "/readme.png",
+        "repoUrl": "https://github.com/srwesley/professional-readme-generator",
+        "deployedAppUrl": "https://clipchamp.com/watch/W6bIUoqv0Qh"
     },
     {
-
+        "name": "SVG Logo Maker",
+        "languagesUsed": ["Node.js", "Jest"],
+        "imageUrl": "/svg.png",
+        "repoUrl": "https://github.com/srwesley/svg-logo-maker",
+        "deployedAppUrl": "https://github-production-user-asset-6210df.s3.amazonaws.com/5975345/262865052-fa357080-96ef-4859-b3d6-6293c6075d43.webm"
     },
     {
-
+        "name": "E-Commerce Backend",
+        "languagesUsed": ["MySQL", "Express.js"],
+        "imageUrl": "/backend.png",
+        "repoUrl": "https://github.com/srwesley/e-commerce-backend",
+        "deployedAppUrl": "https://clipchamp.com/watch/KJuY06wwXLA"
     },
     {
-
+        "name": "MVC Tech Blog",
+        "languagesUsed": ["Express.js", "MySQL", "Sequelize", "Bcrypt", "Dotenv", "Handlebars.js", "Eslint"],
+        "imageUrl": "/TechBlog.png",
+        "repoUrl": "https://github.com/srwesley/model-view-controller-tech-blog",
+        "deployedAppUrl": "https://mvc-tech-blog722-133fdc20ed15.herokuapp.com/"
     },
     {
-
+        "name": "Progressive Web App Text Editor",
+        "languagesUsed": ["Express.js", "Webpack/PwaManifest", "Concurrently"],
+        "imageUrl": "/TextEditor.png",
+        "repoUrl": "https://github.com/srwesley/progressive-web-applications-text-editor",
+        "deployedAppUrl": "https://pwa-text-editor722-3cc2d346f1fb.herokuapp.com/"
     }
 ]

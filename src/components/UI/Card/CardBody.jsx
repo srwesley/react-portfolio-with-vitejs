@@ -1,8 +1,8 @@
-import React, { useState, useEffect } from "react";
+import { useState } from "react";
 import projectList from "../../../utils/projects.json";
 
 function ProjectList() {
-    const [projects, setProjects] = useState(projectList);
+    const [projects] = useState(projectList);
 
     return (
         <div id="project-box">
