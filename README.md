@@ -10,6 +10,8 @@ The `package.json` file already had several dependencies and devDependencies pre
 
 I also used [Netlify](https://www.netlify.com/) to deploy this application by letting it go through my GitHub repo.
 
+P.S. I was a goofy guber and snuck a link in my About Me page. 😉
+
 ## Screenshot
 ![react-portfolio](https://github.com/srwesley/react-portfolio-with-vitejs/assets/5975345/20c5ab3a-63c6-403b-9c8c-674b7e5e52be)
 
